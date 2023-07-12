@@ -1,0 +1,21 @@
+/* google font  */
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+html,
+body {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+/* --------------registerLink Section start---------------  */
+#registerLinkSection {
+  background-color: #07294d;
+}
+
+.facbookLinkImg {
+  margin: 0 4px;
+}
+.youtubeLinkImg {
+  margin: 0px 10px;
+}
+/* ...............registerLink Section end................  */
